@@ -1,4 +1,18 @@
-{
-  "quotes": ["a", "b", "c"],
-  "authors": ["d", "e", "f"]
-}
+[
+  { 
+    "quote": "1",
+    "author": "a"
+  },
+  { 
+    "quote": "2",
+    "author": "b"
+  },
+  { 
+    "quote": "3",
+    "author": "c"
+  },
+  { 
+    "quote": "4",
+    "author": "d"
+  }
+]
