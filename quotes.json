@@ -1,18 +1,38 @@
 [
   { 
-    "quote": "1",
-    "author": "a"
+    "quote": "Never tell me the odds!",
+    "author": "Han Solo"
   },
   { 
-    "quote": "2",
-    "author": "b"
+    "quote": "Do. Or do not. There is no try.",
+    "author": "Yoda"
   },
   { 
-    "quote": "3",
-    "author": "c"
+    "quote": "No. I am your father.",
+    "author": "Darth Vader"
   },
   { 
-    "quote": "4",
-    "author": "d"
+    "quote": "Now, young Skywalker, you will die.",
+    "author": "Emperor Palpatine"
+  },
+  { 
+    "quote": "There's always a bigger fish.",
+    "author": "Qui-Gon Jinn"
+  },
+  { 
+    "quote": "I'm going to make him an offer he can't refuse.",
+    "author": "The Godfather"
+  },
+  { 
+    "quote": "There's no place like home.",
+    "author": "The Wizard of Oz"
+  },
+  { 
+    "quote": "Houston, we have a problem.",
+    "author": "Apollo 13"
+  },
+  { 
+    "quote": "Gentlemen, you can't fight in here! This is the War Room!",
+    "author": "Dr. Strangelove"
   }
 ]
